@@ -17,7 +17,7 @@
 * `history`: view your command history
 * `set and unset`: set and unset environment variables
 
-### We have also create a checker which you can use to checkout our shell or other's [here](https://github.com/aharshbe/shell_testing_dir).
+### We have also created a checker which you can use to checkout our shell or other's [here](https://github.com/aharshbe/shell_testing_dir).
 
 **AUTHORS**
 
