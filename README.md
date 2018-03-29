@@ -6,7 +6,7 @@
 `./hsh`
 
 ### You can:
-* `type commands without full paths`: e.g., ls vs /bin/ls
+* `type commands without full paths`: e.g., **ls** v.s. **/bin/ls**
 * `Pass command arguements`: e.g., ls vs /bin/ls
 * `Use cntrl-C properly`: e.g., it won't exit the shell
 * `Use cntrl-D properly`: e.g., it will exit the shell
@@ -21,7 +21,7 @@
 
 **AUTHORS**
 
-Isaiah Becker-Mayer
-Austin Harshberger
+* Isaiah Becker-Mayer
+* Austin Harshberger
 
 Cheers!
